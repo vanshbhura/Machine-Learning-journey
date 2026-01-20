@@ -69,6 +69,8 @@ Just fundamentals, math intuition, and clean implementations.
 ---
 
 ## 📈 Progress
+- Day 1: Statistics foundations using NumPy
+
 
 This repo is updated **daily** as part of a disciplined ML learning routine.
 
