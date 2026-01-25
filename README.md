@@ -71,6 +71,8 @@ Just fundamentals, math intuition, and clean implementations.
 ## 📈 Progress
 - Day 1: Statistics foundations using NumPy
 - Day 2: Data distributions and outliers
+- Day 3: Correlation basics using NumPy
+
 
 
 This repo is updated **daily** as part of a disciplined ML learning routine.
