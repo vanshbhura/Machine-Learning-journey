@@ -72,6 +72,8 @@ Just fundamentals, math intuition, and clean implementations.
 - Day 1: Statistics foundations using NumPy
 - Day 2: Data distributions and outliers
 - Day 3: Correlation basics using NumPy
+- Day 4: NumPy basics for machine learning
+
 
 
 
