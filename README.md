@@ -73,6 +73,8 @@ Just fundamentals, math intuition, and clean implementations.
 - Day 2: Data distributions and outliers
 - Day 3: Correlation basics using NumPy
 - Day 4: NumPy basics for machine learning
+- Day 5: NumPy dot product and broadcasting
+
 
 
 
