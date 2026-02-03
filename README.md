@@ -76,6 +76,8 @@ Just fundamentals, math intuition, and clean implementations.
 - Day 5: NumPy dot product and broadcasting
 - Day 6: NumPy practice and revision
 - Day 7: Revision and statistics practice
+- Day 8: Introduction to regression problems
+
 
 
 
