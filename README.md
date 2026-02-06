@@ -77,6 +77,7 @@ Just fundamentals, math intuition, and clean implementations.
 - Day 6: NumPy practice and revision
 - Day 7: Revision and statistics practice
 - Day 8: Introduction to regression problems
+- Day 9: Simple linear regression intuition
 
 
 
