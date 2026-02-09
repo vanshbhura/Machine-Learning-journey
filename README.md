@@ -78,6 +78,8 @@ Just fundamentals, math intuition, and clean implementations.
 - Day 7: Revision and statistics practice
 - Day 8: Introduction to regression problems
 - Day 9: Simple linear regression intuition
+- Day 10: Cost function and error measurement
+
 
 
 
