@@ -80,6 +80,8 @@ Just fundamentals, math intuition, and clean implementations.
 - Day 9: Simple linear regression intuition
 - Day 10: Cost function and error measurement
 - Day 11: Gradient descent intuition and implementation
+- Day 12: Linear regression from scratch using NumPy
+
 
 
 
