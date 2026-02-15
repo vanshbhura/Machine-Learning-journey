@@ -82,6 +82,8 @@ Just fundamentals, math intuition, and clean implementations.
 - Day 11: Gradient descent intuition and implementation
 - Day 12: Linear regression from scratch using NumPy
 - Day 13: Structured training and prediction workflow
+- Day 14: Refactored linear regression and visualization
+
 
 
 
