@@ -11,7 +11,7 @@ Just fundamentals, math intuition, and clean implementations.
 ## 📌 Goal
 
 * Understand **how ML actually works**
-* Implement core algorithms **from scratch using NumPy**
+* Implement core algorithms **from scratch using NumPy**  
 * Build intuition before using sklearn
 * Avoid tutorial hell
 
