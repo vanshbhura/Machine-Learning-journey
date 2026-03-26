@@ -83,7 +83,7 @@ Just fundamentals, math intuition, and clean implementations.
 - Day 12: Linear regression from scratch using NumPy
 - Day 13: Structured training and prediction workflow
 - Day 14: Refactored linear regression and visualization
-- Day 15: Multiple linear regression using NumPy
+- Day 15: Multiple linear regression using NumPy  
 - Day 16: Feature scaling and improved training
 
 
